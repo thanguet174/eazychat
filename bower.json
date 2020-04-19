@@ -1,0 +1,22 @@
+{
+  "name": "EazyChat",
+  "homepage": "https://trinhthanguet.com",
+  "authors": [
+    "thanguet1702 <ngocthanhotboy@gmail.com>"
+  ],
+  "description": "Manage frontend libraries.",
+  "main": "src/server.js",
+  "license": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bower_components": "https://github.com/ngocthantk/library-frontend-eazychat.git",
+    "emojione": "4.5.0"
+  }
+}
